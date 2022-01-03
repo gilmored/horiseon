@@ -27,7 +27,11 @@ SO THAT our own site is optimized for search engines
 
 ## Link to Deployed Page
 
+https://gilmored.github.io/horiseon/#social-media-marketing
+
 ## Link to Repo
+
+https://github.com/gilmored/horiseon
 
 ## Screenshots
 
